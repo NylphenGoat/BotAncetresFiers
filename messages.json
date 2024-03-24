@@ -1,0 +1,10 @@
+{
+    "defeat_messages": ["@everyone Nouvelle disasterclass de {summoner_name} sur {champion_name} qui sololose avec son score terrifiant de {kills}/{deaths}/{assists} !",
+    "@everyone !! Le {champion_name} chimique de {summoner_name} a été détecté en train de TERRORRISER son équipe avec son score épouvantable de {kills}/{deaths}/{assists} !" 
+    ],
+
+    "victory_messages": ["@everyone masterclass de {summoner_name} sur {champion_name} qui gap la team adverse avec son score de {kills}/{deaths}/{assists} !",
+    "@everyone MAIS IL EST MALADE !! {summoner_name} sur {champion_name}  vient de TRAU-MA-TI-SER ses adversaire avec ses {kills} kills  !!!!"
+
+    ]
+}
